@@ -1,0 +1,14 @@
+/Users/ZenDan06/Desktop/netcore/People/bin/Debug/netcoreapp2.1/People.deps.json
+/Users/ZenDan06/Desktop/netcore/People/bin/Debug/netcoreapp2.1/People.runtimeconfig.json
+/Users/ZenDan06/Desktop/netcore/People/bin/Debug/netcoreapp2.1/People.runtimeconfig.dev.json
+/Users/ZenDan06/Desktop/netcore/People/bin/Debug/netcoreapp2.1/People.dll
+/Users/ZenDan06/Desktop/netcore/People/bin/Debug/netcoreapp2.1/People.pdb
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.csprojAssemblyReference.cache
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.csproj.CoreCompileInputs.cache
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.RazorAssemblyInfo.cache
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.RazorAssemblyInfo.cs
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.AssemblyInfoInputs.cache
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.AssemblyInfo.cs
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.RazorTargetAssemblyInfo.cache
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.dll
+/Users/ZenDan06/Desktop/netcore/People/obj/Debug/netcoreapp2.1/People.pdb

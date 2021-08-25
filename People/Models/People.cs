@@ -2,7 +2,7 @@ namespace People.Models
 {
     public class Command
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string name  { get; set; }
         public string frist   { get; set; }
         public string middle  { get; set; }
